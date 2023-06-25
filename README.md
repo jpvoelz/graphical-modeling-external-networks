@@ -1,0 +1,2 @@
+# Understanding Mechanisms of Fetal Inflammatory Response through Graphical Modeling with External Network Data
+In this paper submitted as our master project as part of the Data Science Methodology program at the Barcelona School of Economics, we augment a graphical model with external network data to improve inference on small samples of high-dimensional gene expression data from neonates with and without fetal inflammatory response (FIR)
